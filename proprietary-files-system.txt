@@ -1,3 +1,0 @@
--priv-app/HotwordEnrollmentOKGoogleTL3210/HotwordEnrollmentOKGoogleTL3210.apk
--priv-app/HotwordEnrollmentXGoogleTL3210/HotwordEnrollmentXGoogleTL3210.apk
-bin/iwpriv
